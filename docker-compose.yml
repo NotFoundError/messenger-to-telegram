@@ -4,7 +4,7 @@ web:
     - "./app:/usr/src/app"
     - /usr/src/app/node_modules
   environment:
-    - TELEGRAM_TOKEN=
-    - TELEGRAM_CHAT_ID=
-    - FB_EMAIL=
-    - FB_PASSWORD=
+    - TELEGRAM_TOKEN=859122472:AAFf2W_TBwDGMA3KNkZXCSNqDPr_OkLOG6w
+    - TELEGRAM_CHAT_ID=646146866
+    - FB_EMAIL=Anandps
+    - FB_PASSWORD=kashmeera!
